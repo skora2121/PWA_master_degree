@@ -1,7 +1,7 @@
 importScripts('/public/src/js/idb.js');
 importScripts('/public/src/js/utility.js');
 
-var CACHE_STATIC_VERSION = 'precache-v89';
+var CACHE_STATIC_VERSION = 'precache-v90';
 var CACHE_DINAMIC_VERSION = 'dynamic-v6';
 
 
